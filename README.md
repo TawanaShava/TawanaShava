@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TawanaShava
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#,HTML,JavaScript
+- 🌱 I’m currently learning C#,HTML,CSS,JavaScript,Java
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me mosaiccypher21@gmail.com
+- 📫 How to reach me tawanafshava21@gmail.com
 
 <!---
 TawanaShava/TawanaShava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
