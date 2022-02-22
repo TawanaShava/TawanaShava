@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TawanaShava
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Gaming,Nature walks, Art, Coding
 - 🌱 I’m currently learning C#,HTML,CSS,JavaScript,Java
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me tawanafshava21@gmail.com
