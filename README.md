@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming,Nature walks, Art, Coding
 - 🌱 I’m currently investing time in Data Analysis
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me tawanafshava@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/tawanafshava/
 
 <!---
 TawanaShava/TawanaShava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
